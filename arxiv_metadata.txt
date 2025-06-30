@@ -1,7 +1,7 @@
 
 Title: Viewing Gradient Flow as Reverse Diffusion: A Thermodynamic and Probabilistic Perspective
 Authors: Anonymous Author(s)
-Abstract: Gradient-based optimization lies at the core of modern machine learning. In this paper, we provide a new perspective on gradient descent dynamics by interpreting them as reverse-time probability flows akin to those used in diffusion-based generative models. Drawing connections between Wasserstein gradient flows, Fokker-Planck equations, and score-based diffusion models, we propose that gradient descent trajectories in parameter space can be understood as the deterministic reversal of an underly...
+Abstract: Gradient-based optimization lies at the core of modern machine learning. In this paper, we provide a new perspective on gradient descent dynamics by interpreting them as reverse-time probability flows akin to those used in diffusion-based generative models.
 Comments: 12 pages, 2 figures. Prepared for submission to arXiv and NeurIPS theoretical track.
 Subjects: Machine Learning (cs.LG); Statistical Mechanics (cond-mat.stat-mech); Optimization and Control (math.OC)
 License: MIT
